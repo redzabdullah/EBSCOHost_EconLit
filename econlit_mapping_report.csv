@@ -1,0 +1,2 @@
+﻿xml_filename,xml_sha256,aea_url,aea_retrieved_utc,aea_entries,records,unique_descriptors,subject_assignments,exact_assignments,ambiguous_assignments,unmatched_assignments,exact_match_rate_pct,fully_mapped_records
+EBSCO-Metadata-11_11_2026_greenwashing.xml,2a055d352b9bd6c410931923f66d9f5af9010e06f747662cff807bc7f07ee3e3,https://www.aeaweb.org/econlit/jelCodes.php?view=econlit,2026-11-11T03:05:08.497939+00:00,859,50,73,283,283,0,0,100.0,50
