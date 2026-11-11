@@ -1,4 +1,4 @@
-# EBSCOHOst_EconLit
+# EBSCOHost_EconLit
 EBSCOhost EconLit → JEL Code Reconstruction
 
 EBSCOhost EconLit exports carry subject descriptors but often lack the JEL classification codes behind them. This Google Colab notebook rebuilds those codes in a transparent, reproducible way.
